@@ -1,0 +1,3 @@
+[submodule "geohot"]
+	path = geohot
+	url = https://github.com/geohot/corona.git
